@@ -1,3 +1,8 @@
+// Module 1 | Primitives and Objects Online Lecture Example 1
+// Completed by: Sarai Hannah Ajai
+// on April 13, 2020
+
+
 import java.util.Scanner;
 public class Module1PrimitivesVSObjectsOnlineLectureExample1 {
     public static void main(String[] args) {
