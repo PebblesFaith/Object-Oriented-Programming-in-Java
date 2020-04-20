@@ -1,3 +1,7 @@
+// Module 1 | Meet Arrays Example 1
+// Completed by: Sarai Hannah Ajai
+// on April 20, 2020
+
 import java.util.Scanner;
 public class Module1MeetArraysOnlineLectureExample2 {
     public static void main(String[] args) {
