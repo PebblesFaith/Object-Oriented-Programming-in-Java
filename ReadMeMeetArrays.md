@@ -6,7 +6,7 @@ Module 1 | Meet Arrays
 
 Instructor Kasey Champion, Computer Science Curriculum Developer: 
 
-My re-written lecture notes for Module 1, Meet Arrays hyperlink:  https://1drv.ms/w/s!Ar6iJPTO61dwwGoGCd5a1sdr86DG?e=bqd5tv
+My re-written lecture notes for Module 1, Meet Arrays hyperlink:  https://1drv.ms/b/s!Ar6iJPTO61dwwGw2LJTkrE_pTje1?e=p6Cghq
 
 Up until now, you have Java programmed, your Data Types, Primitive and Object, as a semantic value or value type which reference to an Array variable that is call using a Constructor keyword, such as new followed by the semantic value or value type to a specified length in number, such as [3] of a[n] objects or elements or values are semantic. In an auto-initialization or initialized to the zero-equivalent call, “no object” which is  reference to your semantic value or value type; in order for you to execute or run an Array Constructor. Now, you can store, your Array variable value[s] to a specific reference  semantics or indexes or zero-based indexing numbers which allows flexibilities when you are Java coding in a For Loops or Traversal Algorithms. And, if you are Java coding an Algorithms that does not develop into a more programmatic complexities in Java language from your Procedural Decompositions, Flow of Controls, and Control Structures in a Computer Science Abstractions than you have Java coded more Array variables than you can manage, in your Java File programs.
 
