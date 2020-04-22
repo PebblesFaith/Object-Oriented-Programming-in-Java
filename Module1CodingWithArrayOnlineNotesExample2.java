@@ -1,3 +1,7 @@
+// Module 1 | Coding With Arrays Example 2
+// Completed by: Sarai Hannah Ajai
+// on April 21, 2020
+
 import java.util.Arrays;
 public class Module1CodingWithArrayOnlineNotesExample2 {
     public static void main(String[] args) {
