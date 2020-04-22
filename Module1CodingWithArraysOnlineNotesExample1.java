@@ -15,11 +15,11 @@ public class Module1CodingWithArraysOnlineNotesExample1 {
         int bLength = b.length; // returns 10
         int cLength = c.length; // returns 20
 
-        for (int i = 0; i < aLength; i++) {
+        for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
         }
 
-        for (int i = 0; i < bLength; i++) {
+        for (int i = 0; i < b.length; i++) {
             System.out.println(b[i]);
         }
 
