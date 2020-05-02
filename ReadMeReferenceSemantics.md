@@ -6,7 +6,7 @@ Module 1 | Reference Semantics
 
 Instructor Kasey Champion, Computer Science Curriculum Developer: 
 
-My re-written lecture notes for Module 1, Reference Semantics hyperlink: https://1drv.ms/b/s!Ar6iJPTO61dwwQF4BI6Z-Y4InpAn?e=j73Ejq
+My re-written lecture notes for Module 1, Reference Semantics hyperlink: https://1drv.ms/b/s!Ar6iJPTO61dwwQM3sblVySZgxDf2
 
 Now, you have a very firm distinctions and conceptualizations in reference to, what a Primitive and Object Semantic Values or Value Types are in Java language. In furtherance, your comprehension into conceptualizing these two (2) Primitive and Object Semantic Values or Value Types are important while constructing an Array Constructor in which, you have written in Java language codes. And, your Java language codes that are executed onto a Java Virtual Machine (JVM) known as IDE Compiler is translated into one (1) language equivalent program, as a binary or hexadecimal computer basic machine language or Java Bytecodes from your Array Variable. In order to translate your computer basic machine language or Java Bytecodes onto the HEAP memory created from your Array Variable which has a huge impact on your Java File Program from a Procedural Decompositions, Flow of Controls, and Control Structures coded from a[n] Primitive and Object Semantic Values or Value Types in your Array Constructor. 
  
