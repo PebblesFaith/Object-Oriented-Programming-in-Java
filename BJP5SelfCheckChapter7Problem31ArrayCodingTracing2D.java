@@ -2,6 +2,7 @@
    Practice-It! Assignment for BJP4 Self-Check 7.31 Array Coding Tracing 2D.
    Completed by Sarai Hannah Ajai Dated on May 04, 2020. */
 
+import java.util.Arrays;
 
 public class BJP5SelfCheckChapter7Problem31ArrayCodingTracing2D {
     public static void main(String [] args){
