@@ -15,5 +15,8 @@ public class Module2WritingYourOwnObjectOnlineNoteExample1App {
         System.out.println("Student 1: " + student1.firstName + " " + student1.lastName + " " + student1.id + " " + student1.major + " " + student1.gpa + " " + student1.age + " " + student1.abs + " " + student1.onProbation);
         System.out.println("Student 2: " + student2.firstName + " " + student2.lastName + " " + student2.id + " " + student2.major + " " + student2.gpa + " " + student2.age + " " + student2.abs + " " + student2.onProbation);
 
+
+
+
     }
 }
