@@ -7,14 +7,14 @@
    Completed by Sarai Hannah Ajai Dated on May 15, 2020.
  */
 public class Module2WritingYourOwnObjectsOnlineNoteExample1 {
-        String firstName;
-        String lastName;
-        int id;
-        String major;
-        double gpa;
-        int age;
-        int abs;
-        boolean onProbation;
+    String firstName;
+    String lastName;
+    int id;
+    String major;
+    double gpa;
+    int age;
+    int abs;
+    boolean onProbation;
 
 
         public Module2WritingYourOwnObjectsOnlineNoteExample1(String firstName, String lastName, int id, String major, double gpa, int age, int abs, boolean onProbation) {
