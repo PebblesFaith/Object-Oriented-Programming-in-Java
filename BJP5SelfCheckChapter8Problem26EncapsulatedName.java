@@ -16,6 +16,8 @@ public class BJP5SelfCheckChapter8Problem26EncapsulatedName {
 
     }
 
+
+
     public String getFirstName() {
         return "John";
     }
@@ -23,6 +25,8 @@ public class BJP5SelfCheckChapter8Problem26EncapsulatedName {
     public String getLastName() {
         return "Public";
     }
+
+
 
 
 
