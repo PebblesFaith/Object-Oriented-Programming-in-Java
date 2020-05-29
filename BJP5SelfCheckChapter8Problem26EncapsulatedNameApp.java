@@ -5,7 +5,7 @@
 public class BJP5SelfCheckChapter8Problem26EncapsulatedNameApp {
     public static void main(String[] args) {
         BJP5SelfCheckChapter8Problem26EncapsulatedName name1 = new BJP5SelfCheckChapter8Problem26EncapsulatedName();
-        //name1.getFirstName();
+        //name1.setFirstName();
         //name1.getLastName();
         //name1.getMiddleInitial();
         System.out.println(" A Name object represents a person's name such as " + name1.getFirstName() + " " + name1.getLastName() +  " " + name1.getMiddleInitial() +".") ;
