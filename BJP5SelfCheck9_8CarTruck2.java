@@ -9,4 +9,10 @@ public class BJP5SelfCheck9_8CarTruck2 extends BJP5SelfCheck9_8CarTruck1 {
     public void m1() {
         System.out.println("truck 1");
     }
+    public void m2() {
+        super.m1();
+    }
+    public String toString() {
+        return super.toString() + super.toString();
+    }
 }
