@@ -28,7 +28,7 @@ public class BJP5SelfCheckChapter8Problem14ToStringPoint {
         word1.x = 7;
         word1.y = 2;
 
-        System.out.println("Initially To Strings: " + word1.toString());
+        System.out.println("Initially To Strings: " + word1);
         System.out.println();
         System.out.println(word1.x + word1.y);
     }
