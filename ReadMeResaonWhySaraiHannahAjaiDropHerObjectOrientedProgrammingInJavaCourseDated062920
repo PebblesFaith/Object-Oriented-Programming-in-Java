@@ -1,0 +1,334 @@
+June 29, 2020
+Dear Edx.org Team:
+
+I had enrolled for the “Object-Oriented Programming in Java (Microsoft – Dev 277x)” verified certification course dated on April 8, 2020 to be completed by the end of June 30. 2020. I have been confronted and challenged from my Object-Oriented Programming in Java (Massive Open Online Course “MOOC”) instructional filmed lectures performed by the instructor name, Kasey Champion who is mostly lightly an intelligible person. However, I am positively sure, Ms. Champion has intentionally misrepresented her filmed lectures that match her artificial intelligence (“AI”) closed captures downloaded text (.txt) files that demonstrated oratorical and closed captures logical fallacies which compelled me, as Ms. Champion’s student to rewrite her filmed lectures. In order for me, as Ms. Champion’s students to achieve in Ms. Champion goals by ways of mastering and completing Ms. Champion online academic certification in modules, questions, and assessment tests. Therefore, I will need to retake, my eDX.org’s “Object-Oriented Programming in Java (Microsoft – Dev 277x)” verified certification course, again.
+
+I have discovered, while coding in my Object-Oriented Programming in Java language is extremely meticulous when creating Class Objects or Class Definitions’ Java File Program[s] in fields or instance variables and, those collection of fields or instance variables are known as, state then passes or flows to the constructor method; in order for my object variables to become declared, initialized and  instantiated in an Instant Object, Java File Program[s]. And, I can write additional Java codes in other methods such as, Accessor and Mutator methods that instantiates my initial memory for my Class Objects’ Accessor and Mutator methods and return a references from my Class Objects or Class Definitions’ Java File Program[s].  As well as, mastering keywords in Java toolkits Application Programming Interface (“API”) such as, Inheritance that Extends, Super[s], Abstract[s] and Interface[s] in my Java coding Procedural Decompositions, Flow of Controls, and Control Structures from a Computer Science Abstractions coding for the path to achieve my Object-Oriented Programming fundamental ideas behind computational thinking in mastering these Java programmatic rules in Inheritance Hierarchical tree keywords and methods.
+
+Thus said, I am under crucial time constraint less than one (1) day in order to completed all my Object-Oriented Programming in Java course’s projects and assessment tests for which, I had not started or completed my projects and assessment tests. Therefore, I had decided not to complete, my “Object Oriented Programming in Java (Microsoft – Dev 277x)” verified certification course due to the extremely meticulous details in Java language’s API rules. However, in order for me to master my “Object Oriented Programming in Java (Microsoft – Dev 277x)” verified certification course. I will gratefully appreciate your approval to refund my order, EDX-39524895; so, I can re-enrolled again into my eDX.org’s MOOC online account  for “Object Oriented Programming in Java (Microsoft – Dev 277x)” verified certification course.  And, I will have a better timeline schedule in completing, my projects and assessment tests without having to re-study or re-write any Ms. Champion filmed lectures that demonstrated oratorical and closed captures logical fallacies again that provides me with much more schedule time in completing and mastering my Java language programs’ projects and assessment tests.
+
+Respectfully Submitted,
+
+
+
+Sarai Hannah Ajai
+
+Here is Evidence of Ms. Champion filmed lectures that demonstrated oratorical and closed capture logical fallacies, as follows:
+
+As you write programs that get more and more complex.
+You're gonna need to strategize how you can get
+the most use out of every line of code you write.
+It's important to come up with different methods to actually
+learn how to reuse code into lots of different contexts.
+Really the best way to do this is when you're solving
+a problem.
+Look at the code that you write and isolate out
+shared behavior amongst different objects or classes.
+Once you start to find that shared behavior,
+you'll start to see patterns.
+And when you have shared behavior,
+that's code that you can write once.
+And then teach your objects to use in a lot of different
+situations.
+So, in addition to separating out the specific
+shared behavior, you can also relate objects to one another
+to help you get a better sense of how your code is functioning.
+Let's start with an example.
+Let's say you're programming a database that's gonna
+let members of a school community login.
+Within a school, you have people like administrators,
+principals, schedulers,
+people like that, who don't necessarily teach classes or
+attend classes but certainly need to get into the school.
+These people also might need to be assigned a parking
+spot and they probably also have some specific paperwork
+duties that might be different from other people that are part
+of the school community.
+A teacher is also a member of staff like an administrator but
+they teach classes.
+So they're gonna have to submit grades.
+However, you can see that there is some shared behavior between
+these two individuals within the school community.
+Then there is also the students.
+We could start with the first year student
+who again still needs to get into the school but
+then has a few other specific things associated with them.
+They need a class schedule and maybe cuz it's their
+first year at the school they need some sort of orientation.
+And then you have a graduating student at the end of
+their career.
+They probably have a final project and some other
+things they need to wrap up their work at the school.
+These four objects or classes are all pretty well related.
+They all say are interacting in the same environment and they do
+have some shared behavior amongst all four of them.
+Specifically badge access to school, every single one
+of these people is gonna need to physically get into the school.
+The administrator and the teacher however,
+since they are staff members, they get parking spots.
+So that's shared behavior just between the two of them and
+not shared behavior between them and the students.
+But the students, even though they have some specific things
+about them whether they're first year or a graduating student,
+they both still go to classes, so
+there is some shared behavior there.
+I highlight these things so we can talk about the ultimate
+organization of these object as a family tree.
+We start with a definition of an object that is the most
+generic and then we're gonna build our more and
+more specific objects off of that.
+So you might start with something like school member.
+Anybody that gets into the school,
+they have to have badge access.
+Now this is code we could write a single time, and then we can
+start branching off objects from that to sort of reuse that code.
+For example, maybe the next tier down is staff.
+We know that if you're staff,
+you definitely need badge access to the school.
+But you also need parking spot assignments.
+However, that's still not specific enough.
+So, we can add another layer where we actually have teachers,
+and the teachers need to be able to submit grades.
+So, teachers are one type of Staff Member, but
+then Administrators are a different Staff Member.
+And so, if we follow this sort of organization of code,
+everybody on the bottom rung gets all of
+the behavior that's up at the top.
+So a teacher is gonna be able to get badge access to the school
+and a parking spot, and they're also gonna get their own
+specific functionality, which is submitting grades.
+You can actually have plenty of branches.
+Here's the branch for students.
+So maybe you have a generic student, and
+then branching off of that you have first year and
+graduating students.
+By organizing our shared behaviors this way,
+we're opening ourselves up to a very powerful tool in Java,
+inheritance.
+Inheritance is a way to take new classes that you're writing and
+create them based on information and
+behavior that they inherit from other classes.
+It's also a way to group related classes.
+It's a way in Java to build that family organization like we saw,
+previously.
+it's a way to share code between two or more classes.
+Not only can you just pass information around its members,
+but you can actually pass information between
+these classes.
+The way this works is that one class extends
+something above it.
+Thus, if it is extending a class above it,
+then it gets all of the work in that class.
+So you start at the very top of your tree with the most generic
+classes with the behavior that everybody needs and
+then as you move further down the family tree,
+your classes get more and more specific.
+The superclass is what we refer to
+as something that's higher up on the tree, sort of the parent.
+That's the thing that is more generic and that's the thing
+that has the behavior that's then gonna be passed along to
+its offspring.
+Its offspring are called subclasses.
+It's the child class that actually extends the superclass.
+And whatever is in the superclass,
+the child class gets to use it.
+A subclass gets a copy of whatever is in the superclass.
+It's literally just gonna take whatever code exists in
+the superclass and reuse it within its own class.
+And then it can build on top of it.
+Here's the exact syntax for how to accomplish this.
+Use your regular class header, public class name, but
+then you add the keyword extends.
+And you put this on the subclass,
+you would say my subclass extends my super class.
+So for example, teacher would extend staff.
+You can actually have multiple levels of inheritance
+like we have in our tree.
+So we have our student member object that has just a regular
+class header because it's at the very top.
+Then we would have a staff object that would extend school
+member meaning we will get the behavior to give badge access.
+And then we can have administrator to further extend
+student or staffs which means that administrators will then
+get the shared behavior of being assigned a parking spot.
+And that's how we then get multiple levels.
+You can kind of continue actually as long as you like
+however you can only extend one thing per class.
+So here's an example of what the SchoolMember
+object might look like.
+It probably just has a basic field, a basic constructor and
+then let's say it has a method to grant badge access.
+Now, for my student class,
+I extend school member and I don't need to rewrite that
+method that gives badge access because I automatically get to
+use it in my class simply because I inherit it.
+It's as if it's there, but invisible, so
+when I can use it, it's always available to me.
+I can then build on top of this generic functionality by
+adding my own methods.
+Adding these methods means I get access to these as well
+as whatever I inherit.
+That's why the most generic things start at the top, and
+then we get more and
+more specific as we move down the inheritance tree.
+The one thing to make note of here is the constructor
+of the subclass.
+The constructor of the subclass has to call the constructor of
+the superclass, because that's where the fields are stored.
+And if you wanna initialize your fields,
+you gotta rely on your superclass.
+But the way that you do that is simply the word super.
+Parentheses, parentheses that's called the super class.
+And you wanna make sure that that is the first line within
+your sub class' constructor.
+Inheritance trees make your life so much
+easier because when you organize your code from generic shared
+behavior down to specifics, you write a lot less code.
+And that is gonna be incredibly powerful as you start to build
+bigger and bigger projects and work with more and
+more objects within your solutions.
+There's a lot more things to learn about inheritance but
+these should be enough things to get you started.
+
+Here is my rewritten of Ms. Champion filmed lectures that demonstrated oratorical and closed capture logical fallacies in grammatical sentences structures corrections, as follows:
+
+June 13, 2020
+
+Object Oriented Programming in Java (Microsoft Dev 277x)
+
+Module 2 | Introduction to Inheritance
+
+Instructor Kasey Champion, Computer Science Curriculum Developer:
+
+My re-written lecture notes for Module 2, Introduction to Inheritance hyperlink: https://1drv.ms/b/s!Ar6iJPTO61dwwj2gnPehdnxu4qf-?e=eaidDt
+
+As you are writing your Java File Programs, your Java codes will become more and more into conformities with the Java API library in written codes style language complexities, as you advance in your Java language skillsets.  And, you will need to strategizes on how you can maximized, your Java codes more efficiently in every line of code, you will write and, every line of codes, you have written are important enough to apply a different Class Object’s State or Methods; in order to actually learn how you can Reuse those Class Object’s State or Methods in numerous of different written Java language contexts.  Therefore, the most efficient way to Reuse Codes when you are writing out your Java codes; in order to solve a problem is to review, your Java codes, you have written then isolate those particular Java codes that shared the same Behavior amongst different Class Objects’ State or Methods.
+
+Code Reuse: The practice of writing Java program code once and using, these Java codes in many contexts.
+
+You must determine, how you can separate out shared Behavior in which, multiple Class Objects can reuse the State or Methods?
+
+Once, you have found, your Java written codes shared Behavior than you will discovered your Java written codes shared patterns relating to one (1) another in Class Object’s State or Methods.  And, after, you have discovered, your Java written codes shared Behavior in which, you have coded once then you will Java programmatically coded, your shared Behavior written, as an individual Class Definition or Class Object, Java File Program which are Java coded rewritten for a different situations, as need in your Java File Programs.
+
+In addition, you can separate out specific shared Behaviors and, you can also relate Class Objects or State or Methods to one (1) another in order for assisting you with your written Java related functionalities.
+
+You must determine, how you can create formal relationships between your Class Objects in order to create difference levels of specialized behavior?
+
+In the below example, let us say, you are Java coding a program with a database which allows members of a school community to login into your database and, the school community persons are as follows:
+
+•	teachers,
+•	administrators,
+•	first year students, and
+•	graduating students.
+
+In which, an administrators does not necessarily teach or attend classes; however, these school community such as a[n] teachers, administrators, first (1st) year students, and graduating students will certainly need accesses to the school community database and, each teacher, administrator, first (1st) year student, and graduating student groups has their own job description tasks or performances assigned to their specified group which are different from other groups which are part of the school community, as follows:
+
+
+In the above example is four (4) Objects and Classes are well related model of a school community environment. You should have noticed, in the above example is four (4) Objects and Classes are interacting with the same specified environments and these four (4) Objects and Classes have some shared Behaviors amongst all four (4) them such as, granting badges accesses to the school community buildings.
+
+Specifically, the “badge access to the school” each group in the above model will physically need accesses into the school community buildings. And, the[se] Administrators and Teachers group is considered staff members of the school community environment and, each Administrator and Teacher has been assigned parking spots which are shared Behaviors between the[se]Administrators and Teachers group and, each Administrator and Teacher is given a parking spots privileges are not shared Behaviors between students’ school community environment. However, students have some specific distinction in shared Behaviors between the[se] first (1st) year and graduating students for which, the[se] first (1st) year and graduating students both attends classes are shared Behaviors.
+
+While, I have highlighted these specific shared Behaviors, so we can discuss further in regard to the ultimate organization of these Objects and Classes, as a family tree hierarchy. We will start with our Class Definition or Class Object, Java File Program, name which is our most generic Class Definition or Class Object, Java File Program, name in order to build our family tree hierarchy into a more and more refined and specified Objects and Classes.
+
+In our below example, our Class Definition or Class Object, Java File Program name, “SchoolMembers” will start the family tree hierarchy, this is anybody who[m] have accesses to the school community buildings shared Behaviors using a school badges. Now, our SchoolMembers Java code is written once then we can start branching off from our family tree hierarchy in order to create a specified Objects and Classes from reusing our original Class Definition or Class Object, Java File Program name, SchoolMembers in our first (1st) line of Java language code. In the next tier down from the family tree hierarchy name, SchoolMembers branch is the “Staffs” branch and, we also know, the school community’s  Staffs branch definitely need badges to access these school building entrances and, these Staffs branch will need be assigned parking spots. However, our family tree hierarchy is still not specific enough. So, we will need to add another tier branch linking from Staffs branch to the “Teachers” branch and, these Teachers job description duties will need to submit students’ grades. And, the Teachers branch is one (1) type of Reused Codes functionality from the Staffs branch. However, an “Administrators” is a different branch that is link to the Staffs branch below it. Therefore, if we follow our SchoolMembers family tree hierarchy organizational codes, this means, all of these branches (e.g. Staffs, Teachers, and Administrators) which are linked tiers from the top of the SchoolMembers family tree hierarchy branch will receive all Java codes shared Behaviors which is above their specific branches. For example, the Teachers branch will have shared Behaviors in Java codes by ways of receiving badge accesses in order to enter into the school community buildings and assigning parking spots, as well as our Teachers branch that has their own Class written Java codes for their own specific functionality which is to submit students’ grades.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can actually have as many written Java coded branches from the SchoolMembers family tree hierarchy, as you want.  In the above example, you have Java coded, your generic Students branch which branches off into two (2) other linking branches such as, the “First Year” and “Graduating” students. And, when we organized, our shared Behaviors in these fashions, we are opening ourselves up to an enormously powerful tools in Java language, known as Inheritance.
+
+Inheritance (Inherit) is a programming technique that allows a derived class to extend the functionality of a base class, inheriting all of it states behavior.
+
+The derived class is more commonly call the subclass that inherit all the state and behavior of its parent class is commonly call the superclass.
+
+An Inheritance is another way to form new Classes based on existing Class which takes on your Java written original State and [or] Behaviors as follows:
+
+•	away to group related Classes.
+•	Away to share codes between two (2) or more Classes.
+
+And, an Inheritance is also another way for you to build, your Java codes, as group organizational related Classes, as in our above example, SchoolMembers family tree hierarchy and, an Inheritance is also another way for you to write, your Java language codes between two (2) or more Classes. Furthermore, not only can you write, your Java codes in order to pass information around its Objects on the other hand, you can write your Java codes to actually pass information between two (2) or more Classes.
+
+The way Inheritance works in a Java IDE compiler is one (1) Class Extends to another Class’ State and Behaviors from the branch above it.  Therefore, if you Extends your Java codes to the Class (branch) above it then you will retrieve all of their State and Behaviors in that specific Class. So, we will start at the very top of our Class Definition or Class Object, Java File Program which is our most generic Class name, SchoolMembers family tree hierarchy that contains our Java codes State and Behaviors data or information which passes to our lower tier linked branches. As, we move further down our family tree hierarchy because our Class name, SchoolMembers branch becomes more and more specified in details when our branch Extends Classes are inherited in the family tree hierarchy.
+
+What is a Superclass?
+
+A Superclass is refer to, as a start of a family tree hierarchy also known as the Parent and, the Superclass is the beginning of your Class Definition or Class Object, Java File Program name such as, SchoolMembers.
+
+Superclass is the parent class in an inheritance relationship.
+
+Subclass is the child or, derived class in an inheritance relationship.
+
+We say that the Subclass extends the Superclass because it not only receives the Superclass’ state or behavior but can also add new state and behavior of its own. The Subclass can also replace inherited behavior with new behavior, as needed, which we will discuss in the next section.
+
+A Superclass begins with a generic State and Behaviors which passes along their State and Behaviors data or information to it offsprings. And, Superclass’ offspring is also known as, Subclass or Child and, the Subclass or Child is actually extended from the State and Behaviors of the Superclass.  So, whatever State and Behaviors are in the Superclass their Subclass or Child is an exact copy of your written Java coded Superclass’ State and Behaviors. In other words, your written Java coded Subclass is literally a copy towards whatever the State and Behaviors exists in your Superclass for which is your Class Definition or Class Object, Java File Program name that Reuses your written Java codes Superclass and Subclass within its own Class’ Inheritance.
+
+One (1) Class can extend another, inheriting its data/behavior.
+Superclass: The parent class that is being extended.
+Subclass: The child class that extends the Superclass and Inherits its Behavior.
+•	Subclass gets a copy of every field and method from the Superclass.
+
+In the below example is the exact syntax for how to write your Java code as an Inheritance:
+public class Name extends SuperClassName
+
+Example:
+
+Public class Teachers extends Staffs{
+}
+In the above example, you will write your Java codes using a regular Class Method Header such as, public class Teachers then follow by the Extends keyword follow by the Superclass name, Staffs placed into what is now known, as a Subclass Method Header. So, for example, the public class Teachers Subclass would extend to the Superclass name, Staffs.
+
+You can have actually Java codes multiple levels of an Inheritance as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can extend, how much you  like; however, you can only extend your Java code in one (1) Superclass and Subclass per an Inheritance similar to our above example, SchoolMembers family tree hierarchy.
+
+In our next below example, we have a basic Class Definition or Class Object, Java File Program name, SchoolMembers with the basic field, instance variable, data member or attribute and Constructor. And, let us say, our Class Definition or Class Object, Java File Program name, SchoolMembers has a Primitive Data Type name, Boolean Method Header in order for granting school community accesses to all school buildings.
+
+
+
+
+
+
+
+
+
+
+Now, our Subclass’ Class Definition or Class Object, Java File Program name, Students will extend to the State and Behaviors of the Superclass in our Class Definition or Class Object, Java File Program name, SchoolMembers. So, we do not have to Java code in order to rewrite our Students Subclass’ State and Behaviors that provides badges accesses to the school community buildings because we have Java coded to use our Inheritance functionality. The Students Subclass’ State and Behaviors which extends from the SchoolMembers’ Superclass is always invisible and available to us when we need to reuse our Java written codes again. And, we can build, our Java codes within the Superclass’ State and Behaviors by ways of Inheritance functionality when adding our own State and Behaviors to our Subclass’ Students, Class Definition or Class Object, Java File Program.  And, adding our own State and  Behaviors to our Subclass’ (Students) Class Definition or Class Object, Java File Program meant we can write our Java codes within our Students Subclass, Class Definition or Class Object, Java File Program, as well as having accesses to Inheritance capabilities from our, SchoolMembers’ Class Definition or Class Object, Java File Program. This is why, we start at the top of the family tree hierarchy name, SchoolMembers’ Class Definition or Class Object, Java File Program known as, the Superclass which is the most generic then we will Java code our Students Subclass’ Class Definition or Class Object, Java File Program which is more specific when we move down the Inherited family tree hierarchy.
+
+One (1) more important information to note is the Constructor from the Subclass has to call the Constructor of the Superclass because the Constructor’s Superclass is where the State is stored. And, you will want to initialize your Superclass’ State by way of simply using the keyword, “super” with an open parentheses follow by field, instance variable, data member or attribute, name follow by the closing parentheses (super(id)) in order to call your  Superclass inside your Subclass.  Also, make sure, your super keyword is the first (1st) line of code within your Subclass’ Constructor.
+
+
+
+
+
+
+
+
+
+
+
