@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PersonProfile extends Persons{
+public class PersonProfile extends Persons {
     private String make;
 
     private String model;
@@ -125,13 +125,8 @@ public class PersonProfile extends Persons{
             System.out.println();
         }
 
-
         public int getVehicleYear() {
             return vehicleYear;
         }
-
-
-
-
 
     }
